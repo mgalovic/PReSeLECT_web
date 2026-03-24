@@ -1,0 +1,8 @@
+.DS_Store
+*.psd
+.claude/
+figma_export/
+preselect_protocol.docx
+preselect_logo.webp
+preselect_logo_text_transparent.png
+preselect_round_logo_transparent.png
